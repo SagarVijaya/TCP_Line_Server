@@ -3,7 +3,7 @@
 
 ### clone URL
 ```sh
-https://github.com/SagarVijaya/Video_Analytics.git
+https://github.com/SagarVijaya/TCP_Line_Server.git
 ```
 ### **1 Install Dependencies**
 

@@ -1,0 +1,6 @@
+2025/08/19 08:46:08 Client:cff7d5a3b60a4f16bc48012b61cccbdc Request: - [TCP server listening on :5000]
+2025/08/19 08:46:08 Client:cff7d5a3b60a4f16bc48012b61cccbdc Request: - [HTTP server listening on :9000]
+2025/08/19 08:46:26 Client:31a5ba2935534c42a2b0b90ea2afc4be Request: - [Client connected: [::1]:62455 ID: 1]
+2025/08/19 08:46:29 Client:31a5ba2935534c42a2b0b90ea2afc4be Request:beaef3031ce74629a3385f4f3f3e5ccd - [PING received]
+2025/08/19 08:46:37 Client:31a5ba2935534c42a2b0b90ea2afc4be Request:21ee59fd83e2492a8b976742352631c8 - [Unknown command: ]
+2025/08/19 08:46:37 Client:31a5ba2935534c42a2b0b90ea2afc4be Request:21ee59fd83e2492a8b976742352631c8 - [Client disconnected: [::1]:62455 ID: 1]
